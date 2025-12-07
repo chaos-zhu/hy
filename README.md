@@ -5,6 +5,6 @@ fork: https://github.com/apernet/hysteria
 hysteria2 纯净版一键安装
 
 ```
-wget -N --no-cache --no-check-certificate https://raw.githubusercontent.com/chaos-zhu/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
+wget -N --no-cache --no-check-certificate https://raw.githubusercontent.com/chaos-zhu/hy/refs/heads/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
 ```
 v2rayN设置中socks5监听端口: 5678
